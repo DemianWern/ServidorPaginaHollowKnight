@@ -1,0 +1,196 @@
+{
+    "bestias":[
+        {
+            "id":"maggot",
+            "link":"https://hollowknight.fandom.com/es/wiki/Gusano",
+            "nombre":"Gusano",
+            "img":"../img/gusano.webp",
+            "cantRestantes":"",
+            "Zona":"Cruces Olvidados"
+        },
+        {
+            "id":"crawild",
+            "link":"https://hollowknight.fandom.com/es/wiki/Reptacillo",
+            "nombre":"Reptacillo",
+            "img":"../img/Crawild.webp",
+            "cantRestantes":"",
+            "Zona":"Paso del Rey, Cruces Olvidados, Sendero Verde, Acantilados Aulladores y Tierras de Reposo"
+        },
+        {
+            "id":"vengefly",
+            "link":"https://hollowknight.fandom.com/es/wiki/Vengamosca",
+            "nombre":"Vengamosca",
+            "img":"../img/imgBestiario/vengefly.webp",
+            "cantRestantes":"",
+            "Zona":"Paso del Rey, Cruces Olvidados, Sendero Verde, Acantilados Aulladores y Tierras de Reposo"
+        },
+        {
+            "id":"gruzzer",
+            "link":"https://hollowknight.fandom.com/es/wiki/Gruzzer",
+            "nombre":"Gruzzer",
+            "img":"../img/imgBestiario/gruzzer.webp",
+            "cantRestantes":"",
+            "Zona":"Cruces Olvidados"
+        },
+        {
+            "id":"gruz_mother",
+            "link":"https://hollowknight.fandom.com/es/wiki/Madre_Gruz",
+            "nombre":"Madre Gruz",
+            "img":"../img/imgBestiario/mamitagruz.webp",
+            "cantRestantes":"",
+            "Zona":"Cruces olvidados y Coliseo de los Insensatos"
+        },
+        {
+            "id":"tiktik",
+            "link":"https://hollowknight.fandom.com/es/wiki/Tiktik",
+            "nombre":"Tiktik",
+            "img":"../img/imgBestiario/tiktik.webp",
+            "cantRestantes":"",
+            "Zona":"Cruces olvidados y Sendero Verde"
+        },
+        {
+            "id":"Aspid_Hunter",
+            "link":"https://hollowknight.fandom.com/es/wiki/Cazador_aspid",
+            "nombre":"Cazador Aspid",
+            "img":"../img/imgBestiario/Aspid_Hunter_Idle.webp",
+            "cantRestantes":"",
+            "Zona":"Cruces olvidados y Cuenca Antigua"
+        },
+        {
+            "id":"mother_aspid",
+            "link":"https://hollowknight.fandom.com/es/wiki/Madre_aspid",
+            "nombre":"Madre Aspid",
+            "img":"../img/imgBestiario/Aspid_Mother_Idle.webp",
+            "cantRestantes":"",
+            "Zona":" Cruces olvidados"
+        },
+        {
+            "id":"aspid_hatchling",
+            "link":"https://hollowknight.fandom.com/es/wiki/Cría_aspid",
+            "nombre":"Cría aspid",
+            "img":"../img/imgBestiario/B_Aspid_Hatchling.webp",
+            "cantRestantes":"",
+            "Zona":" Cruces olvidados"
+        },
+        {
+            "id":"Goam",
+            "link":"https://hollowknight.fandom.com/es/wiki/Goam",
+            "nombre":"Goam",
+            "img":"../img/imgBestiario/salvajibestia.png",
+            "cantRestantes":"",
+            "Zona":"Cruces olvidados"
+        },
+        {
+            "id":"wandering_husk",
+            "link":"https://hollowknight.fandom.com/es/wiki/Cáscara_errante",
+            "nombre":"Cáscara Errante",
+            "img":"../img/imgBestiario/Bestiary_bug_f.webp",
+            "cantRestantes":"",
+            "Zona":"Cruces olvidados y Sendero Verde"
+        },
+        {
+            "id":"husk_hornhead",
+            "link":"https://hollowknight.fandom.com/es/wiki/Cáscara_cabezacuerno",
+            "nombre":"Cáscara cabezacuerno",
+            "img":"../img/imgBestiario/cabezacuerno.webp",
+            "cantRestantes":"",
+            "Zona":"Cruces olvidados y Sendero Verde"
+        },
+        {
+            "id":"leaping_husk",
+            "link":"https://hollowknight.fandom.com/es/wiki/Cáscara_saltarina",
+            "nombre":"Cáscara saltarina",
+            "img":"../img/imgBestiario/cascarasalta.webp",
+            "cantRestantes":"",
+            "Zona":"Cruces olvidados y Sendero Verde"
+        },
+        {
+            "id":"husk_bully",
+            "link":"https://hollowknight.fandom.com/es/wiki/Cáscara_matona",
+            "nombre":"Cáscara Matona",
+            "img":"../img/imgBestiario/matona.webp",
+            "cantRestantes":"",
+            "Zona":"Cruces olvidados y Sendero Verde"
+        },
+        {
+            "id":"husk_warrior",
+            "link":"https://hollowknight.fandom.com/es/wiki/Cáscara_guerrera",
+            "nombre":"Cáscara Guerrera",
+            "img":"../img/imgBestiario/guerrera.webp",
+            "cantRestantes":"",
+            "Zona":"Cruces olvidados"
+        },
+        {
+            "id":"husk_guard",
+            "link":"https://hollowknight.fandom.com/es/wiki/Cáscara_guardiana",
+            "nombre":"Cáscara guardiana",
+            "img":"../img/imgBestiario/guardiana.webp",
+            "cantRestantes":"",
+            "Zona":"Cruces olvidados"
+        },
+        {
+            "id":"entombed_husk",
+            "link":"https://hollowknight.fandom.com/es/wiki/restos_sepultados",
+            "nombre":"Restos sepultados",
+            "img":"../img/imgBestiario/restosSepu.webp",
+            "cantRestantes":"",
+            "Zona":"Tierras de Reposo"
+        },
+        {
+            "id":"fake_knight",
+            "link":"https://hollowknight.fandom.com/es/wiki/Falso_Caballero",
+            "nombre":"Falso Caballero",
+            "img":"../img/imgBestiario/B_False_Knight.webp",
+            "cantRestantes":"",
+            "Zona":"Cruces olvidados"
+        },
+        {
+            "id":"menderbug",
+            "link":"https://hollowknight.fandom.com/es/wiki/Insecto_reparador",
+            "nombre":"Insecto Reparador",
+            "img":"../img/imgBestiario/Menderbug.webp",
+            "cantRestantes":"",
+            "Zona":"Cruces olvidados"
+        },
+        {
+            "id":"lifeseed",
+            "link":"https://hollowknight.fandom.com/es/wiki/Germen_de_vida",
+            "nombre":"Germen de Vida",
+            "img":"../img/imgBestiario/B_Lifeseed.webp",
+            "cantRestantes":"",
+            "Zona":"Sale de Capullos de Sabiavida"
+        },
+        {
+            "id":"baldur",
+            "link":"https://hollowknight.fandom.com/es/wiki/Baldur",
+            "nombre":"Baldur",
+            "img":"../img/imgBestiario/B_Baldur.webp",
+            "cantRestantes":"",
+            "Zona":"Cruces olvidados, Montículo cristalizado y Acantilados Aulladores"
+        },
+        {
+            "id":"elder_baldur",
+            "link":"https://hollowknight.fandom.com/es/wiki/Baldur_anciano",
+            "nombre":"Baldur Anciano",
+            "img":"../img/imgBestiario/B_Elder_Baldur.webp",
+            "cantRestantes":"",
+            "Zona":"Cruces Olvidados, Acantilados Aulladores y Montículo Ancestral"
+        },
+        {
+            "id":"mosscreep",
+            "link":"https://hollowknight.fandom.com/es/wiki/Trepamusgo",
+            "nombre":"Trepamusgo",
+            "img":"../img/imgBestiario/B_Mosscreep.webp",
+            "cantRestantes":"",
+            "Zona":"Sendero Verde y Jardines de la Reina"
+        },
+        {
+            "id":"mossfly",
+            "link":"https://hollowknight.fandom.com/es/wiki/Musgólula",
+            "nombre":"Musgólula",
+            "img":"../img/imgBestiario/B_Mossfly.webp",
+            "cantRestantes":"",
+            "Zona":"Cañón Nublado y Jardines de la Reina"
+        }
+    ]          
+}

@@ -1,0 +1,338 @@
+[
+    {
+        "nombre": "Brújula Caprichosa",
+        "descripcion": "Susurra su ubicación al portador siempre que se abra el mapa.",
+        "img": "../img/imgCharms/charm_sprite_03.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Br%C3%BAjula_caprichosa",
+        "cantRanuras": 1,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Enjambre Recolector",
+        "descripcion": "Un enjambre que seguirá al portador y reunirá todos los geo sueltos.",
+        "img": "../img/imgCharms/charm_sprite_02.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Enjambre_recolector",
+        "cantRanuras": 1,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Coraza Robusta",
+        "descripcion": "Al recuperarse del daño recibido, el portador será invulnerable durante más tiempo.",
+        "img": "../img/imgCharms/_0006_charm_stalwart_shell.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Coraza_robusta",
+        "cantRanuras": 2,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Atrapaalmas",
+        "descripcion": "Aumenta la cantidad de ALMA obtenida al golpear a un enemigo con el aguijón.",
+        "img": "../img/imgCharms/_0001_charm_more_soul.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Atrapaalmas",
+        "cantRanuras": 2,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Piedra de Chamán",
+        "descripcion": "Aumenta el poder de los hechizos para hacer más daño a los enemigos.",
+        "img": "../img/imgCharms/_0002_charm_spell_damage_up.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Piedra_de_cham%C3%A1n",
+        "cantRanuras": 3,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Devoraalmas",
+        "descripcion": "Aumenta mucho la cantidad de ALMA obtenida al golpear a un enemigo con el aguijón.",
+        "img": "../img/imgCharms/charm_soul_up_large.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Devoraalmas",
+        "cantRanuras": 4,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Maestro de las Embestidas",
+        "descripcion": "El portador podrá realizar el Avance Rápido con más frecuencia, así como realizar el Avance Rápido hacia abajo.",
+        "img": "../img/imgCharms/_0011_charm_generic_03.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Maestro_de_las_embestidas",
+        "cantRanuras": 2,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Maestro de las Sprints",
+        "descripcion": "Aumenta la velocidad al correr del portador, permitiéndole esquivar el daño o adelantar al rival.",
+        "img": "../img/imgCharms/charm_grimm_sprint_master.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Maestro_de_Sprints",
+        "cantRanuras": 1,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Canción de Larvas",
+        "descripcion": "Consigue ALMA al recibir daño.",
+        "img": "../img/imgCharms/charm_grub_mid.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Canci%C3%B3n_de_larvas",
+        "cantRanuras": 1,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Elegía de la Larvamosca",
+        "descripcion": "Infunde a las armas una fuerza sagrada. Cuando el portador tenga toda la salud, lanzará rayos de energía blanca y caliente desde su aguijón.",
+        "img": "../img/imgCharms/charm_grub_blade.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Eleg%C3%ADa_de_la_Larvamosca",
+        "cantRanuras": 3,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Corazón Frágil",
+        "descripcion": "Aumenta la salud del portador, con lo que puede recibir más daño.",
+        "img": "../img/imgCharms/_0002_charm_glass_heal.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Coraz%C3%B3n_Fr%C3%A1gil",
+        "cantRanuras": 2,
+        "esCristalizado": true
+    },
+    {
+        "nombre": "Codicia Frágil",
+        "descripcion": "Hace que el portador encuentre más geo al derrotar enemigos.",
+        "img": "../img/imgCharms/_0003_charm_glass_geo.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Codicia_fr%C3%A1gil",
+        "cantRanuras": 2,
+        "esCristalizado": true
+    },
+    {
+        "nombre": "Fuerza Frágil",
+        "descripcion": "Fortalece al portador, lo que aumenta el daño que este inflige a los enemigos con su aguijón.",
+        "img": "../img/imgCharms/_0002_charm_glass_attack_up.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Fuerza_Fr%C3%A1gil",
+        "cantRanuras": 3,
+        "esCristalizado": true
+    },
+    {
+        "nombre": "Tuercehechizos",
+        "descripcion": "Reduce el coste de ALMA al lanzar hechizos.",
+        "img": "../img/imgCharms/charm_magic_cost_down.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Tuercehechizos",
+        "cantRanuras": 2,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Cuerpo Firme",
+        "descripcion": "Evita que su portador rebote hacia atrás al golpear a un enemigo con su aguijón.",
+        "img": "../img/imgCharms/_0006_charm_no_recoil.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Cuerpo_firme",
+        "cantRanuras": 1,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Duro Golpe",
+        "descripcion": "Aumenta la fuerza del aguijón del portador, lo que hace que los enemigos retrocedan más al recibir un golpe.",
+        "img": "../img/imgCharms/_0008_charm_nail_damage_up.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Duro_golpe",
+        "cantRanuras": 2,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Corte Rápido",
+        "descripcion": "Permite al portador lanzar cortes mucho más rápido con su aguijón.",
+        "img": "../img/imgCharms/_0003_charm_nail_slash_speed_up.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Corte_r%C3%A1pido",
+        "cantRanuras": 3,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Largoaguijón",
+        "descripcion": "Aumenta el alcance del aguijón del portador.",
+        "img": "../img/imgCharms/_0007_charm_greed.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Largoaguij%C3%B3n",
+        "cantRanuras": 2,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Marca de Orgullo",
+        "descripcion": "Aumenta mucho el alcance del aguijón del portador.",
+        "img": "../img/imgCharms/char_mantis.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Marca_de_Orgullo",
+        "cantRanuras": 3,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Furia de los Caídos",
+        "descripcion": "La fuerza del portador aumentará cuando se encuentre cercano a la muerte.",
+        "img": "../img/imgCharms/_0005_charm_fury.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Furia_de_los_ca%C3%ADdos",
+        "cantRanuras": 2,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Espinas de Agonía",
+        "descripcion": "Al recibir daño, hace brotar vides espinosos que dañan a los enemigos cercanos.",
+        "img": "../img/imgCharms/_0000_charm_thorn_counter.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Espinas_de_agon%C3%ADa",
+        "cantRanuras": 1,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Coraza de Baldur",
+        "descripcion": "Protege a su portador con una dura coraza mientras concentra el ALMA.",
+        "img": "../img/imgCharms/charm_blocker.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Coraza_de_baldur",
+        "cantRanuras": 2,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Tremanido",
+        "descripcion": "Transforma el hechizo Espíritu vengativo en una horda de volátiles bebés trematodos.",
+        "img": "../img/imgCharms/charm_fluke.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Tremanido",
+        "cantRanuras": 3,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Blasón del Defensor",
+        "descripcion": "Hace que el portador emita un olor heroico.",
+        "img": "../img/imgCharms/charm_dung_def.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Blas%C3%B3n_del_defensor",
+        "cantRanuras": 1,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Útero Brillante",
+        "descripcion": "Drena el ALMA de su portador y la usa para dar a luz a varias crías.",
+        "img": "../img/imgCharms/_0009_charm_Hatchling.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/%C3%9Atero_brillante",
+        "cantRanuras": 2,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Concentración Rápida",
+        "descripcion": "Aumenta la velocidad de la concentración de ALMA, con lo que el portador puede curarse de los daños antes.",
+        "img": "../img/imgCharms/_0005_charm_fast_focus.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Concentraci%C3%B3n_r%C3%A1pida",
+        "cantRanuras": 3,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Concentración Profunda",
+        "descripcion": "El portador tardará más en concentrar ALMA, pero su efecto de curación se duplicará.",
+        "img": "../img/imgCharms/charm_crystal.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Concentraci%C3%B3n_profunda",
+        "cantRanuras": 4,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Corazón de Saviavida",
+        "descripcion": "Al descansar, el portador obtendrá un revestimiento de saviavida que le protege de una pequeña cantidad de daño.",
+        "img": "../img/imgCharms/_0010_charm_bluehealth.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Coraz%C3%B3n_de_saviavida",
+        "cantRanuras": 2,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Núcleo de Saviavida",
+        "descripcion": "Al descansar, el portador obtendrá un revestimiento de saviavida que le protege de una gran cantidad de daño.",
+        "img": "../img/imgCharms/_0007_charm_blue_health_large.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/N%C3%BAcleo_de_saviavida",
+        "cantRanuras": 3,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Bendición de Joni",
+        "descripcion": "El portador tendrá una coraza más sana y podrá recibir más daño, pero no podrá curarse concentrando ALMA.",
+        "img": "../img/imgCharms/charm_blue_health_convert.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Bendici%C3%B3n_de_Joni",
+        "cantRanuras": 4,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Sangrecolmena",
+        "descripcion": "Cura las heridas del portador con el paso del tiempo, lo que permite recuperar salud sin concentrar ALMA.",
+        "img": "../img/imgCharms/charm_hive.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Sangrecolmena",
+        "cantRanuras": 4,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Hongo con Esporas",
+        "descripcion": "Al concentrar ALMA, emite una nube de esporas que daña lentamente a los enemigos.",
+        "img": "../img/imgCharms/charm_fungus.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Hongo_con_esporas",
+        "cantRanuras": 1,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Sombra Afilada",
+        "descripcion": "Al usar el avance rápido sombrío, el cuerpo del portador se volverá afilado y dañará a los enemigos.",
+        "img": "../img/imgCharms/charm_shade_impact.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Sombra_afilada",
+        "cantRanuras": 2,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Forma de Unn",
+        "descripcion": "Al concentrar ALMA, el portador adoptará una nueva forma y podrá moverse libremente para evitar a los enemigos.",
+        "img": "../img/imgCharms/charm_slug.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Forma_de_Unn",
+        "cantRanuras": 2,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Gloria del Maestro de Aguijones",
+        "descripcion": "Aumenta el dominio de las Artes del aguijón del portador, lo que le permite concentrar su poder más rápido y desatar las artes antes.",
+        "img": "../img/imgCharms/_0004_charm_charge_time_up.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Gloria_del_Maestro_de_aguijones",
+        "cantRanuras": 1,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Canción de Tejedora",
+        "descripcion": "Invoca pequeñas tejedoras para acompañar y proteger al solitario portador.",
+        "img": "../img/imgCharms/charm_grimm_silkweaver.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Canci%C3%B3n_de_Tejedora",
+        "cantRanuras": 2,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Portador Onírico",
+        "descripcion": "Permite al portador cargar el Aguijón Onírico más rápido y reunir más ALMA al golpear enemigos.",
+        "img": "../img/imgCharms/inv_dream_charm.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Portador_on%C3%ADrico",
+        "cantRanuras": 1,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Escudo Onírico",
+        "descripcion": "Conjura un escudo que sigue al portador e intenta protegerle.",
+        "img": "../img/imgCharms/charm_grimm_markoth_shield.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Escudo_On%C3%ADrico",
+        "cantRanuras": 3,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Niño de Grimm",
+        "descripcion": "Llevado por aquellos que forman parte del Ritual de la compañía de grimm. El portador debe buscar los grimarios y recolectar sus llamas. Las llamas que no se han recogido aparecerán en el mapa del portador.",
+        "img": "../img/imgCharms/charm_grimmkin_04.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Ni%C3%B1o_de_Grimm",
+        "cantRanuras": 2,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Melodía Despreocupada",
+        "descripcion": "Contiene una canción de protección que defenderá al portador del daño.",
+        "img": "../img/imgCharms/charm_grimmkin_05.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Melod%C3%ADa_despreocupada",
+        "cantRanuras": 1,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Alma del Monarca",
+        "descripcion": "Amuleto sagrado que simboliza la unión entre seres superiores. El portador absorberá lentamente el ALMA interminable que contiene. Abre el camino al lugar de nacimiento.",
+        "img": "../img/imgCharms/charm_white_full.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Alma_del_Monarca",
+        "cantRanuras": 5,
+        "esCristalizado": false
+    },
+    {
+        "nombre": "Corazón del Vacío",
+        "descripcion": "Unifica el vacío bajo la voluntad del portador. Este amuleto forma parte de su portador y no se puede eliminar del equipo.",
+        "img": "../img/imgCharms/charm_black.png",
+        "link": "https://hollowknight.fandom.com/es/wiki/Coraz%C3%B3n_del_Vac%C3%ADo",
+        "cantRanuras": 0,
+        "esCristalizado": false
+    }
+]
