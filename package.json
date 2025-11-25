@@ -2,13 +2,17 @@
   "name": "prueba_express",
   "version": "1.0.0",
   "description": "En este proyecto se realizan pruebas para aprender a usar express",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon app.js"
   },
   "author": "Demian",
   "license": "ISC",
   "dependencies": {
+    "cors": "2.8.5",
     "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
   }
 }

@@ -16,7 +16,7 @@ rutaApiAmuletos.get("/:busqueda", (req, res)=>{
     const resBusqueda = datosAmuletos.filter(amuleto => amuleto.nombre == busqueda)
 
     if(resBusqueda.length===0){
-        return res.status(404).send("El amuleto no se encontro: Error 404")
+        return res.status(404).send("El amuleto no se encontró: Error 404 not found")
     }
 
     return res.send(resBusqueda)
@@ -26,10 +26,14 @@ rutaApiAmuletos.get("/:busqueda", (req, res)=>{
 rutaApiAmuletos.get("/", (req, res)=>{
     console.log(req.query)
 
-    if(req.query.ordenar === "cantRanuras"){//Ordena de mayor a menor los amuletos en base a la cantidad de ranuras que ocupa el amuleto
+    if(req.query.ordenar === "cant_ranuras"){//Ordena de mayor a menor los amuletos en base a la cantidad de ranuras que ocupa el amuleto
         return res.send(datosAmuletos.sort((a,b) => b.cantRanuras - a.cantRanuras))
     }
 
+    res.send(datosAmuletos)
+})
+
+rutaApiAmuletos.get("/", (req, res)=>{
     res.send(datosAmuletos)
 })
 
