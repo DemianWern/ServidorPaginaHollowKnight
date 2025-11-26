@@ -35,6 +35,7 @@ const datosBestiario = require("./datos/bestiario.json")
 //Se importan los routers que se van a usar
 const rutaApiAmuletos = require("./routers/amuletos")
 const rutaApiBestiario = require("./routers/bestiario")
+const rutaApiImagenes = require("./routers/imagenes")
 
 //Creacion del servidor
 const PUERTO = process.env.PORT || 3000 //process.env.PORT sirve cuando el puerto se determina de forma dinamica por el servidor
@@ -46,8 +47,8 @@ app.listen(PUERTO, () => {
 //Routers, sirven para abreviar rutas que se repiten varias veces al momento de programar
 //Con app.use se indica la nueva ruta base y la constante por la que se reemplaza app al momento de usar esa ruta
 app.use("/api/amuletos", rutaApiAmuletos)
-
 app.use("/api/bestiario", rutaApiBestiario)
+app.use("/api/imagenes", rutaApiImagenes)
 
 //Routing
 //Para las peticiones de tipo GET en el path /, se hace lo que determina la funcion lambda
