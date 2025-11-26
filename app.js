@@ -36,6 +36,7 @@ const datosBestiario = require("./datos/bestiario.json")
 const rutaApiAmuletos = require("./routers/amuletos")
 const rutaApiBestiario = require("./routers/bestiario")
 const rutaApiImagenes = require("./routers/imagenes")
+const rutaApiVideos = require("./routers/videos")
 
 //Creacion del servidor
 const PUERTO = process.env.PORT || 3000 //process.env.PORT sirve cuando el puerto se determina de forma dinamica por el servidor
@@ -49,6 +50,7 @@ app.listen(PUERTO, () => {
 app.use("/api/amuletos", rutaApiAmuletos)
 app.use("/api/bestiario", rutaApiBestiario)
 app.use("/api/imagenes", rutaApiImagenes)
+app.use("/api/videos", rutaApiVideos)
 
 //Routing
 //Para las peticiones de tipo GET en el path /, se hace lo que determina la funcion lambda
